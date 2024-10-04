@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:11:23	260725/260725	---MCZ	200	added ('OK')	text/html	date:Thu,%2005%20Sep%202024%2002:11:22%20GMT	https://guiltless-view.surge.sh/form.html	D:/01.Code/07.web/facebook/guiltless-view.surge.sh/form.html	(from )
+09:11:23	26/26	---M--	200	added ('OK')	text/plain	date:Thu,%2005%20Sep%202024%2002:11:23%20GMT	https://guiltless-view.surge.sh/robots.txt		(from )
+09:11:24	87533/87533	---M--	200	added ('OK')	text/javascript	date:Tue,%2012%20Sep%202023%2002:38:22%20GMT	https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js	D:/01.Code/07.web/facebook/ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js	(from https://guiltless-view.surge.sh/form.html)
