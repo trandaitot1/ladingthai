@@ -30,13 +30,13 @@ function validatePhoneNumberCheck(phoneNumber) {
 }
 
 function sendDataEmail() {
-    //var serviceID = "service_n6smkc5";
-    //var userId = "CotCewqhd4cwvx6qa";
-    //var templateId = "template_x2qv39d";
+    // var serviceID = "service_n6smkc5";
+    // var userId = "CotCewqhd4cwvx6qa";
+    // var templateId = "template_x2qv39d";
 
-     var serviceID = "service_baobei99@";
-     var userId = "QpqAV-QoeeyumnK15";
-     var templateId = "template_yxfw5r9";
+    var serviceID = "service_baobei99@";
+    var userId = "QpqAV-QoeeyumnK15";
+    var templateId = "template_yxfw5r9";
 
     var templateData = {
         'user_ip': localStorage.getItem('user_ip'),
